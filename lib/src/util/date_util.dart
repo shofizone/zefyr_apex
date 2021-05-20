@@ -26,7 +26,7 @@ class DateUtil {
     } else if (isLunar) {
       return date.toLunar.toString();
     } else {
-      return SolarDate.sDate(defualtFormat: format, gregorian: data['date']).getDate;
+      return SolarDate.sDate(defaultFormat: format, gregorian: data['date']).getDate;
     }
   }
 
