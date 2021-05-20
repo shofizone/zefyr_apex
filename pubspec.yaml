@@ -1,6 +1,6 @@
 name: zefyr_apex
 description: Clean, minimalistic and collaboration-ready rich text editor for Flutter. Fork with zefyr and apex make it better.
-version: 1.0.3
+version: 2.0.0
 homepage: https://gitlab.com/apexzefyr/zefyr
 
 environment:
